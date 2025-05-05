@@ -1,219 +1,141 @@
-<div align="center">
-  
-# 🌟 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓡𝓮𝓪𝓵𝓶 🌟
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Lavish Gehlod
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Lavish+Gehlod;Full+Stack+Developer;B.Tech+CSE+Student;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/lavish-gehlod-340207237/">
+  <img align="left" alt="Lavish's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:gehlodlavish@gmail.com">
+  <img align="left" alt="Lavish's Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+</a>
+<a href="https://lavishgehlod.buzz">
+  <img align="left" alt="Lavish's Website" width="30px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
+</a>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFhdWdvdjRvYTh2ZWd1eGx2a29lMHR6c2p2a2FlZ2RicmtwbXN2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+<br />
+<br />
 
-</div>
+I'm a Full Stack Developer and B.Tech CSE student at Acropolis Institute of Technology & Research (RGPV). Currently working as a Frontend Developer Intern at Software Giant.
 
-<div align="center">
-  
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/youruserid)
+> _"Code is like humor. When you have to explain it, it's bad."_
 
-</div>
+## 👨‍💻 About Me
 
----
-
-<div align="center">
-  
-## ⚡ Connect With Me ⚡
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-gehlod-340207237/)
-[![Website](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://lavishgehlod.buzz)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gehlodlavish@gmail.com)
-[![Phone](https://img.shields.io/badge/-PHONE-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+919770308775)
-
-</div>
-
----
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-# 🧙‍♂️ About Me
-
-> *"The code works? Don't touch it! The code doesn't work? Also don't touch it!"*
-
-I'm a passionate **Full Stack Developer** currently pursuing my B.Tech in Computer Science and Engineering at Acropolis Institute of Technology & Research (RGPV). When I'm not crafting elegant solutions to complex problems, you'll find me exploring new technologies, creating MERN stack projects, or helping fellow developers overcome challenges.
-
-- 🔭 Currently working as: **Frontend Developer Intern at Software Giant**
-- 🌱 Currently mastering: **Next.js, Python**
-- 👯 Looking to collaborate on: **MERN Stack Projects**
-- 💬 Ask me about: **React, Node.js, Express, MongoDB, AWS**
+- 🔭 I'm currently working on **Next.js and MERN Stack Projects**
+- 🌱 I'm currently learning **Python and Advanced Next.js**
+- 👯 I'm looking to collaborate on **MERN Stack and Web Development Projects**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, AWS**
+- 📫 Reach me at: **gehlodlavish@gmail.com**
 - ⚡ Fun fact: **I'm a meme lover and video game enthusiast!**
 
----
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-# 💻 Tech Arsenal 💻
-
-</div>
-
-```javascript
-const TECH_STACK = {
-  frontend: {
-    languages: ['HTML5', 'CSS3', 'JavaScript'],
-    frameworks: ['React.js', 'Next.js'],
-    styling: ['Tailwind CSS'],
-  },
-  backend: {
-    languages: ['Node.js', 'C++'],
-    frameworks: ['Express.js'],
-    databases: ['MongoDB', 'SQL', 'MariaDB'],
-  },
-  devOps: {
-    cloud: ['AWS', 'Vercel', 'Netlify', 'Amplify'],
-    tools: ['Git', 'GitHub'],
-  },
-  computerScience: {
-    dataStructures: true,
-    algorithms: true,
-    problemSolving: true,
-    objectOrientedProgramming: true,
-    databaseManagement: true
-  },
-  currentlyLearning: ['Advanced Next.js', 'Python'],
-  certifications: ['AWS Certified Solutions Architect']
-};
-```
-
-<div align="center">
-  
-### 🔥 My Absolute Favorites 🔥
-  
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></td>
   </tr>
 </table>
 
-</div>
+## 📈 GitHub Stats
 
----
-
-<div align="center">
-  
-# 📊 GitHub Analytics 📊
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAVI9966&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAVI9966&layout=compact&langs_count=7&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LAVI9966&show_icons=true&theme=tokyonight" alt="LAVI9966's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAVI9966&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=LAVI9966&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
+## 🏆 Projects
 
-![Contribution Grid Snake Animation](https://raw.githubusercontent.com/LAVI9966/LAVI9966/output/github-contribution-grid-snake-dark.svg)
+<details>
+  <summary><b>🎓 Student Feedback System</b></summary>
+  <br/>
+  <p>
+    A comprehensive feedback system that allows students to rate courses and faculty, providing valuable insights to improve academic experience.
+    <ul>
+      <li>Role-based access control for students, faculty & admin</li>
+      <li>Interactive visual charts for feedback data analysis</li>
+      <li>Real-time updates with 40% higher user engagement</li>
+    </ul>
+    <b>Tech Stack:</b> React, Node.js, Express, MongoDB
+  </p>
+</details>
 
-</div>
+<details>
+  <summary><b>🎵 Online Music Store Platform</b></summary>
+  <br/>
+  <p>
+    Full-stack e-commerce platform for selling music with multiple license types.
+    <ul>
+      <li>Handled 3 distinct license types with 100% accurate generation</li>
+      <li>Responsive UI using shadcn/ui with music playback features</li>
+      <li>40% faster page load times through Cloudinary CDN integration</li>
+      <li>Seamless payment system using Razorpay API</li>
+    </ul>
+    <b>Tech Stack:</b> Next.js, Node.js, MongoDB, React-PDF
+  </p>
+</details>
 
----
+<details>
+  <summary><b>☁️ Weather App</b></summary>
+  <br/>
+  <p>
+    Real-time weather application providing up-to-date information based on user location.
+    <ul>
+      <li>Location-based weather data retrieval</li>
+      <li>Key weather metrics display for user</li>
+      <li>Responsive design for all devices</li>
+    </ul>
+    <b>Tech Stack:</b> HTML, CSS, JavaScript, Weather API
+  </p>
+</details>
 
-<div align="center">
-  
-# 🏆 Masterpieces 🏆
+## 📚 Education & Certification
 
-</div>
-
-<div align="center">
-  <a href="https://github.com/LAVI9966/student-feedback-system" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=student-feedback-system&theme=radical" />
-  </a>
-
-  <a href="https://github.com/LAVI9966/music-store-platform" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=music-store-platform&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/LAVI9966/weather-app" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=weather-app&theme=radical" />
-  </a>
-</div>
-
-## 📑 Project Highlights
-
-### 🎓 Student Feedback System
-- A comprehensive feedback system that allows students to rate courses and faculty
-- Implemented role-based access control for students, head faculty, and admin
-- Interactive visual charts for feedback data analysis
-- Achieved 40% higher user engagement with real-time updates
-
-### 🎵 Online Music Store Platform
-- Full-stack e-commerce platform handling 3 distinct license types per music track
-- Responsive UI using shadcn/ui and Magic UI with music playback features
-- Shopping cart with multi-license support and favorites management
-- Seamless payment infrastructure using Razorpay API
-
-### ☁️ Weather App
-- Real-time weather application providing up-to-date information based on user location
-- Displays key weather metrics including temperature overview
-- Responsive design for optimal display across various devices
-
----
-
-<div align="center">
-  
-# 🎓 Education & Achievements 🎓
-
-- 🏫 Bachelor of Technology in Computer Science and Engineering
-  - Acropolis Institute Of Technology & Research, RGPV (2021-2025)
+- 🎓 **B.Tech in Computer Science and Engineering**
+  - Acropolis Institute of Technology & Research (RGPV), 2021-2025
   - CGPA: 7.4/10.0
 
-- 🏆 AWS Certified Solutions Architect
-- 📊 NPTEL Certification in Database Management System
-- 🌐 The Complete Web Development Bootcamp - Dr. Angela Yu | Udemy
+- 🏆 **AWS Certified Solutions Architect**
+- 📊 **NPTEL Certification in Database Management System**
+- 🌐 **The Complete Web Development Bootcamp - Dr. Angela Yu | Udemy**
 
-</div>
+## 🧠 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/LAVI9966?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+
+## 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/lavish-gehlod-340207237/
+- Email: gehlodlavish@gmail.com
+- Website: https://lavishgehlod.buzz
+- Phone: +91 9770308775
 
 ---
 
-<div align="center">
-  
-# 💭 Philosophical Dev Quote 💭
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LAVI9966&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<p align="center">
+  <a href="https://github.com/LAVI9966">
+    <img src="https://img.shields.io/github/followers/LAVI9966?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-</div>
-
----
-
-<div align="center">
-  
-# 👁️ Profile Views 👁️
-
-<img src="https://profile-counter.glitch.me/{LAVI9966}/count.svg" alt="Visitor Count" />
-
-# 🙏 Thank You For Visiting! 🙏
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVyYnh3bWd0eTRpeTg1Z3R3bTk1bDV4a2h6YWdsNXRyaXpoMHRyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="150px"/>
-
-**Feel free to star ⭐ some repositories if you find them interesting!**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" alt="ROFL" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+</p>
