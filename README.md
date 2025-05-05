@@ -2,7 +2,7 @@
   
 # 🌟 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓲𝓰𝓲𝓽𝓪𝓵 𝓡𝓮𝓪𝓵𝓶 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+%5BYour+Name%5D;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Lavish+Gehlod;Full+Stack+Developer;B.Tech+CSE+Student;Problem+Solver;Creative+Coder" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFhdWdvdjRvYTh2ZWd1eGx2a29lMHR6c2p2a2FlZ2RicmtwbXN2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 
@@ -20,11 +20,10 @@
   
 ## ⚡ Connect With Me ⚡
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/-DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-gehlod-340207237/)
+[![Website](https://img.shields.io/badge/-WEBSITE-000000?style=for-the-badge&logo=react&logoColor=white)](https://lavishgehlod.buzz)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gehlodlavish@gmail.com)
+[![Phone](https://img.shields.io/badge/-PHONE-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+919770308775)
 
 </div>
 
@@ -34,15 +33,15 @@
 
 # 🧙‍♂️ About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> *"The code works? Don't touch it! The code doesn't work? Also don't touch it!"*
 
-I'm a passionate **Full Stack Developer** who lives and breathes code. When I'm not crafting elegant solutions to complex problems, you'll find me exploring new technologies, contributing to open-source, or mentoring the next generation of developers.
+I'm a passionate **Full Stack Developer** currently pursuing my B.Tech in Computer Science and Engineering at Acropolis Institute of Technology & Research (RGPV). When I'm not crafting elegant solutions to complex problems, you'll find me exploring new technologies, creating MERN stack projects, or helping fellow developers overcome challenges.
 
-- 🔭 Currently building: **[Your Awesome Project]**
-- 🌱 Currently mastering: **[Cutting-edge Tech]**
-- 👯 Looking to collaborate on: **Open Source & Innovative Projects**
-- 💬 Ask me about: **Anything Tech-related, I'm happy to help!**
-- ⚡ Fun fact: **[Something Unique About You]**
+- 🔭 Currently working as: **Frontend Developer Intern at Software Giant**
+- 🌱 Currently mastering: **Next.js, Python**
+- 👯 Looking to collaborate on: **MERN Stack Projects**
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, AWS**
+- ⚡ Fun fact: **I'm a meme lover and video game enthusiast!**
 
 ---
 
@@ -55,25 +54,28 @@ I'm a passionate **Full Stack Developer** who lives and breathes code. When I'm 
 ```javascript
 const TECH_STACK = {
   frontend: {
-    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3/SASS'],
-    frameworks: ['React', 'Next.js', 'Vue.js'],
-    stateManagement: ['Redux', 'Context API', 'Zustand'],
-    styling: ['Tailwind CSS', 'Styled Components', 'Material UI']
+    languages: ['HTML5', 'CSS3', 'JavaScript'],
+    frameworks: ['React.js', 'Next.js'],
+    styling: ['Tailwind CSS'],
   },
   backend: {
-    languages: ['Node.js', 'Python', 'Java'],
-    frameworks: ['Express.js', 'NestJS', 'Django', 'FastAPI'],
-    databases: ['MongoDB', 'PostgreSQL', 'Redis', 'Firebase']
+    languages: ['Node.js', 'C++'],
+    frameworks: ['Express.js'],
+    databases: ['MongoDB', 'SQL', 'MariaDB'],
   },
   devOps: {
-    cloud: ['AWS', 'Google Cloud', 'Vercel', 'Netlify'],
-    tools: ['Docker', 'Kubernetes', 'GitHub Actions', 'GitLab CI'],
-    monitoring: ['Prometheus', 'Grafana', 'Sentry']
+    cloud: ['AWS', 'Vercel', 'Netlify', 'Amplify'],
+    tools: ['Git', 'GitHub'],
   },
-  mobile: ['React Native', 'Flutter'],
-  testing: ['Jest', 'React Testing Library', 'Cypress', 'Selenium'],
-  design: ['Figma', 'Adobe XD', 'Photoshop'],
-  currentlyLearning: ['Web3', 'Rust', 'AI/ML Integration']
+  computerScience: {
+    dataStructures: true,
+    algorithms: true,
+    problemSolving: true,
+    objectOrientedProgramming: true,
+    databaseManagement: true
+  },
+  currentlyLearning: ['Advanced Next.js', 'Python'],
+  certifications: ['AWS Certified Solutions Architect']
 };
 ```
 
@@ -92,10 +94,6 @@ const TECH_STACK = {
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
@@ -104,8 +102,12 @@ const TECH_STACK = {
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
     </td>
   </tr>
 </table>
@@ -119,15 +121,15 @@ const TECH_STACK = {
 # 📊 GitHub Analytics 📊
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LAVI9966&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAVI9966&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=LAVI9966&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
-![Contribution Grid Snake Animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+![Contribution Grid Snake Animation](https://raw.githubusercontent.com/LAVI9966/LAVI9966/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -139,15 +141,52 @@ const TECH_STACK = {
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
+  <a href="https://github.com/LAVI9966/student-feedback-system" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=student-feedback-system&theme=radical" />
+  </a>
 
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
-</a>
+  <a href="https://github.com/LAVI9966/music-store-platform" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=music-store-platform&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/LAVI9966/weather-app" style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LAVI9966&repo=weather-app&theme=radical" />
+  </a>
+</div>
 
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-</a>
+## 📑 Project Highlights
+
+### 🎓 Student Feedback System
+- A comprehensive feedback system that allows students to rate courses and faculty
+- Implemented role-based access control for students, head faculty, and admin
+- Interactive visual charts for feedback data analysis
+- Achieved 40% higher user engagement with real-time updates
+
+### 🎵 Online Music Store Platform
+- Full-stack e-commerce platform handling 3 distinct license types per music track
+- Responsive UI using shadcn/ui and Magic UI with music playback features
+- Shopping cart with multi-license support and favorites management
+- Seamless payment infrastructure using Razorpay API
+
+### ☁️ Weather App
+- Real-time weather application providing up-to-date information based on user location
+- Displays key weather metrics including temperature overview
+- Responsive design for optimal display across various devices
+
+---
+
+<div align="center">
+  
+# 🎓 Education & Achievements 🎓
+
+- 🏫 Bachelor of Technology in Computer Science and Engineering
+  - Acropolis Institute Of Technology & Research, RGPV (2021-2025)
+  - CGPA: 7.4/10.0
+
+- 🏆 AWS Certified Solutions Architect
+- 📊 NPTEL Certification in Database Management System
+- 🌐 The Complete Web Development Bootcamp - Dr. Angela Yu | Udemy
 
 </div>
 
@@ -167,7 +206,7 @@ const TECH_STACK = {
   
 # 👁️ Profile Views 👁️
 
-<img src="https://profile-counter.glitch.me/{yourusername}/count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/{LAVI9966}/count.svg" alt="Visitor Count" />
 
 # 🙏 Thank You For Visiting! 🙏
 
