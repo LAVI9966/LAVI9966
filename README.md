@@ -90,7 +90,7 @@
 ## 🧠 LeetCode Power Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/LAVI9966?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/lavishgehlod210204?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
